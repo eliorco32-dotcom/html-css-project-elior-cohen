@@ -1,0 +1,14 @@
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 100px;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 0%,
+    rgba(110, 225, 240, 1) 100%
+  );
+  color: var(--text-dark);
+  background-image: url(../pages/images/ondeonde-popular-market-snack-cake-260nw-1859111545.webp);
+}

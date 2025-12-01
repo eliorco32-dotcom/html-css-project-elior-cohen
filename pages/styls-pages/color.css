@@ -1,0 +1,24 @@
+:root {
+  /* צבעים עיקריים */
+  --primary: #825ac2;
+  --primary-dark: #005ac1;
+  --success: #8dff5f;
+  --danger: #d92b3a;
+  /* טקסט */
+  --text-dark: #01040b;
+  --text-gray: #5c565628;
+  --text-light: #fffcfc;
+  /* רקעים */
+  --bg-white: #ffffff;
+  --bg-light: #ebeef2;
+  --bg-dark: #22283a;
+  /* גבולות */
+  --border: #edebebba;
+  --bg-header: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 0%,
+    rgba(110, 225, 240, 1) 100%
+  );
+  --bg-side-bar: linear-gradient(90deg, rgba(240, 194, 129, 0.53) 100%);
+}
